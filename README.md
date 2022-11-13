@@ -20,11 +20,10 @@ Install XAMPP
 ## Running Tests
 
 To run tests, run the following command
-
-```bash
   Open XAMPP Control Panel
   Then Turn On Apache And MySQL
   After That Open The Browser And Search For
+```bash
   localhost/pkl/login.php
 ```
 
