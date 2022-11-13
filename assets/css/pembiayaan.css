@@ -1,0 +1,54 @@
+.navbar-default .navbar-nav > li.clr1 a{
+    color:#ffffff;
+}
+.navbar-default .navbar-nav > li.clr2 a{
+color: #FFEB3B;;
+}
+.navbar-default .navbar-nav > li.clr3 a{
+color: #5EC64D;
+}
+.navbar-default .navbar-nav > li.clr4 a{
+color: #29AAE2;
+}
+.navbar-default .navbar-nav > li.clr1 a:hover, .navbar-default .navbar-nav > li.clr1.active a{
+color:#fff;
+background: #F55;
+}
+.navbar-default .navbar-nav > li.clr2 a:hover, .navbar-default .navbar-nav > li.clr2.active a{
+color: #fff;
+background:#973CB6;
+}
+.navbar-default .navbar-nav > li.clr3 a:hover, .navbar-default .navbar-nav > li.clr3.active a{
+color: #fff;
+background:#5EC64D;
+}
+.navbar-default .navbar-nav > li.clr4 a:hover, .navbar-default .navbar-nav > li.clr4.active a{
+color: #fff;
+background: #0e5597;
+}
+.navbar-default{
+background-color: #2379FF;
+font-size:18px;
+}
+.navbar-default .navbar-brand {
+color: #ffffff;
+font-weight:bold;
+}
+.navbar-default .navbar-text {
+color:#ffffff;
+}
+a{color: #FFC107;text-decoration: none;}
+img{width:120px;    height:135px;padding-top: 10px;}
+
+button[type=submit] {
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-image: url("https://img.icons8.com/metro/26/000000/search.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+  }
